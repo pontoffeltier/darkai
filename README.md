@@ -11,4 +11,4 @@ This theme is a dark, flat theme with one of the following highlight-colors:
 - orange (#fd971f)
 - lilac (#ae81ff)
 
-The theme is inspired by Spacegray (http://kkga.github.io/spacegray/) and Brogrammer (https://github.com/kenwheeler/brogrammer-theme)
+This theme is inspired by [Spacegray](http://kkga.github.io/spacegray/) and [Brogrammer](https://github.com/kenwheeler/brogrammer-theme)
