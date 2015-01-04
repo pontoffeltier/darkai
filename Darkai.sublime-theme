@@ -645,14 +645,14 @@
     {
         "class": "sidebar_container",
         "layer0.opacity": 1,
-        "layer0.tint": [16, 16, 12], // -01
+        "layer0.tint": [16, 16, 12],
         "layer0.inner_margin": [1,5,2,1],
-        "content_margin": [0,4,0,0]
+        "content_margin": [0,10,0,0]
     },
     // Sidebar tree
     {
         "class": "sidebar_tree",
-        "row_padding": 8,
+        "row_padding": 4,
         "indent": 12,
         "indent_offset": 16,
         "indent_top_level": false,
