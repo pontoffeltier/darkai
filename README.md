@@ -16,7 +16,7 @@ There is a CSS-file for [adminer](http://www.adminer.org/) and a theme for [Subl
 
 Installation Theme (Sublime Text 2)
 -----------------------------------
-Just put the Darkai.sublime-theme and the darkai-directory into a folder (e.g. "Theme - Darkai") inside your packages-folder (so you end up with "/Packages/Theme - Darkai/darkai.sublime-theme" and "/Packages/Theme - Darkai/Darkai/"). After that, add the following line to your user-specific configuration:
+Just put the Darkai.sublime-theme and the contents of the sublime-text-2 directory into your packages-folder (so you end up with "/Packages/Theme - Darkai/darkai.sublime-theme" and "/Packages/Theme - Darkai/Darkai/"). After that, add the following line to your user-specific configuration:
 ```
 "theme": "Darkai.sublime-theme"
 ```
