@@ -294,7 +294,7 @@ table code{}
 }
 #tables a{
 	background: none;
-	color:#f8f8f2;
+	color:#cfcfc2;
 }
 #tables a.active,
 #tables a:hover{
@@ -305,4 +305,4 @@ table code{}
 #logout{}
 #logout:hover{}
 .js .column{background:#1a1a16;}
-.js .column a{color:#f8f8f2;}
+.js .column a{color:#cfcfc2;}
