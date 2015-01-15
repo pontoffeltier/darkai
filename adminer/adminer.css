@@ -113,7 +113,7 @@ fieldset{
 fieldset div{}
 input,select,textarea,.sqlarea,code{
 	background:#75715e;
-	color:#f8f8f2;
+	color:#cfcfc2;
 	display: inline-block;
 	border: none!important;
 	padding: 0.6em 1em;
@@ -132,7 +132,7 @@ input:focus,select:focus,textarea:focus,.sqlarea:focus {outline:none;background:
 	outline: none;
 	position: relative;
 	background: #2681ff;
-	color: #f8f8f2;
+	color: #cfcfc2;
 	box-shadow: 0 0.25em #0041bf;
 	-webkit-transition: none;
 	-moz-transition: none;
@@ -140,14 +140,14 @@ input:focus,select:focus,textarea:focus,.sqlarea:focus {outline:none;background:
 	border-radius: 2px;
 }
 .jush, .jush-bac, .jush-php_bac, .jush-bra, .jush-mssql_bra, .jush-sqlite_quo {
-	color:#f8f8f2;
+	color:#cfcfc2;
 }
 .jush-op, .jush-php_quo, .jush-quo, .jush-quo_one, .jush-php_eot, .jush-apo, .jush-sql_apo, .jush-sqlite_apo, .jush-sql_quo, .jush-sql_eot {
 	color:#a6e22e;
 }
 .jush a {
 	background:#272822;
-	color:#f8f8f2;
+	color:#cfcfc2;
 }
 .jush a:hover {
 	color:#272822;
