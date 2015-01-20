@@ -15,10 +15,11 @@ darker
 39, 40, 34 - #272822
 49, 50, 44 - #31322c
 59, 60, 54 - #3b3c36
+69, 70, 64 - #454640
 117, 113, 94 - #75715e
-207, 207, 194 - #cfcfc2
 141, 141, 128 - #9f9f92
-248, 248, 242 - #f8f8f2
+207, 207, 194 - #cfcfc2
+248, 248, 243 - #f8f8f2
 lighter
 */
 
@@ -121,7 +122,7 @@ input,select,textarea,.sqlarea,code{
 	line-height: 1.4em;
 	position: relative;
 }
-input:focus,select:focus,textarea:focus,.sqlarea:focus {outline:none;background:#31322c;}
+input:focus,select:focus,textarea:focus,.sqlarea:focus {outline:none;background:#3b3c36;}
 .links a, button, input[type=submit], input[type=image].icon{
 	border: none;
 	cursor: pointer;
@@ -132,7 +133,7 @@ input:focus,select:focus,textarea:focus,.sqlarea:focus {outline:none;background:
 	outline: none;
 	position: relative;
 	background: #2681ff;
-	color: #cfcfc2;
+	color: #f8f8f2;
 	box-shadow: 0 0.25em #0041bf;
 	-webkit-transition: none;
 	-moz-transition: none;
@@ -209,10 +210,9 @@ table{
 	border: none;
 }
 tbody tr:hover td,tbody tr:hover th{
-	background: #75715e;
-	border-color: #75715e;
+	background: #454640;
+	border-color: #31322c;
 }
-thead tr:hover td,thead tr:hover th{}
 th,td{
 	background: #272822;
 	padding: 0.5em 1em;
@@ -306,3 +306,5 @@ table code{}
 #logout:hover{}
 .js .column{background:#1a1a16;}
 .js .column a{color:#cfcfc2;}
+
+.js .checkable .checked td, .js .checkable .checked th {background:#75715e;color:#10100c;}
